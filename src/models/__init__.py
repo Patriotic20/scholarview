@@ -1,0 +1,4 @@
+from .achievements import Achievement
+from .foreign_language_certificates import ForeignLanguageCertificate
+from .scientific_research_work import ScientificResearchWork
+from .user import User
